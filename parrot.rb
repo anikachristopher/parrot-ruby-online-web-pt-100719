@@ -2,7 +2,10 @@ def parrot
   puts "Squawk!"
 end
 
-def phrase=parrot ("Pretty Girl!")
-  puts phrase
+parrot
+
+def phrase(parrot = "Pretty Girl!")
+  puts "#{parrot}!"
 end
 
+phrase("Pretty Girl!")
