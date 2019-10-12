@@ -3,8 +3,8 @@ def parrot
 end
 
 
-def phrase(parrot = "Pretty Girl!")
-  puts "#{phrase}!"
+def phrase (parrot = "Pretty Girl!")
+  puts "#{parrot}!"
 end
 
 
