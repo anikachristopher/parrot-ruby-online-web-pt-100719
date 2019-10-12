@@ -4,7 +4,7 @@ end
 
 
 def phrase(parrot = "Pretty Girl!")
-  puts "#{parrot}!"
+  puts "#{phrase}!"
 end
 
 
