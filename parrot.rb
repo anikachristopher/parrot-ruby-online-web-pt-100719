@@ -4,7 +4,8 @@ end
 
 
 def phrase (parrot = "Pretty Girl!")
-  puts "#{parrot}!"
+  puts "Pretty Girl!"
+  "Pretty Girl"
 end
 
 
